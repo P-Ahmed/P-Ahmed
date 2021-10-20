@@ -8,7 +8,7 @@
 
 
 ### Used Languages and Git Stats:
-<p align = "left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)(https://github.com/P-Ahmed/github-readme-stats)</p>
+<div align = "left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)(https://github.com/P-Ahmed/github-readme-stats)</div>
 
-<p align = "right">![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=deafult)
-</p>
+<div align = "right">![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=deafult)
+</div>
