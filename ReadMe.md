@@ -11,15 +11,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)](https://github.com/P-Ahmed/github-readme-stats)
 
-<br />
-<br />
-
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="P-Ahmed's GitHub Stats" src="https://github-readme-stats.P-Ahmed.vercel.app/api?username=P-Ahmed&show_icons=true&hide_border=true" />
+  ![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=radical)
 
 </details>
 
