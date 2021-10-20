@@ -1,6 +1,6 @@
-### Hi there, I'm Pollab Ahmed! 👋
+## Hi there, I'm Pollab Ahmed! 👋
 
-## An SDET(Software Development Engineer in Test)!!
+### An SDET(Software Development Engineer in Test)!!
 
 - 🌱 I’m currently learning automation testing
 - 🥅 Goal: Become a Software Test Architect
@@ -19,6 +19,3 @@
   ![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=radical)
 
 </details>
-
-
-[linkedin]: https://www.linkedin.com/in/pollab-ahmed-63a481b3/
