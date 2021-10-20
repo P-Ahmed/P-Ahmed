@@ -6,9 +6,9 @@
 - :evergreen_tree: Goal: Become a Software Test Architect
 - :sunrise_over_mountains: Fun fact: Love to hangout with my buddies :sunglasses:
 
+---
 
 ### Used Languages and Git Stats:
-<div align = "left">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)(https://github.com/P-Ahmed/github-readme-stats)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)(https://github.com/P-Ahmed/github-readme-stats)
 
-<div align = "right">![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=deafult)
-</div>
+![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=deafult)
