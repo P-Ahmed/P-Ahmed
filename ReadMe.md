@@ -16,6 +16,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=radical)
+  ![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=deafult)
 
 </details>
