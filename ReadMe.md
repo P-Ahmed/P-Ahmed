@@ -9,6 +9,6 @@
 ---
 
 ### Used Languages and Git Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)(https://github.com/P-Ahmed/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)
 
 ![Pollab's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Ahmed&show_icons=true&theme=deafult)
