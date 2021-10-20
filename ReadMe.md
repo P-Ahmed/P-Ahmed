@@ -2,14 +2,14 @@
 
 ### An SDET(Software Development Engineer in Test)!!
 
-- 🌱 I’m currently learning automation testing
-- 🥅 Goal: Become a Software Test Architect
-- ⚡ Fun fact: Love to hangout with my buddies
+- :seedling: I’m currently learning automation testing
+- :evergreen_tree: Goal: Become a Software Test Architect
+- :sunrise_over_mountains: Fun fact: Love to hangout with my buddies :sunglasses:
 
 
-### Languages and Tools:
+### Used Languages and Git Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)](https://github.com/P-Ahmed/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)](https://github.com/P-Ahmed/github-readme-stats)
 
 ---
 
