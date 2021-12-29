@@ -7,10 +7,6 @@
 - :sunrise_over_mountains: Fun fact: Love to hangout with my buddies :sunglasses:
 
 ---
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=P-Ahmed)
-
 ### Used Languages and Git Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Ahmed&layout=compact)
 
