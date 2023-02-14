@@ -39,6 +39,7 @@
 		"Gradle",
 		"Maven",
 		"Cucumber",
+		"Robot Framework",
 		"Cypress"
 	],
 	"Cross-Browser Testing": "Browserstack",
