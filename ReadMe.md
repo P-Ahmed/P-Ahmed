@@ -44,7 +44,7 @@
 	],
 	"Cross-Browser Testing": "Browserstack",
 	"Project Management & Bug Tracking Tools": [
-		"Scrum",
+		"Agile",
 		"Jira",
 		"Confluence",
 		"TestRail"
