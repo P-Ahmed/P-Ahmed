@@ -52,6 +52,7 @@
 	"API Testing": [
 		"Postman",
 		"Newman",
+		"Rest-assured"
 		"Axios",
 		"Cypress"
 	],
