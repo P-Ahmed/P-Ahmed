@@ -11,7 +11,7 @@
       <div align="center" colspan="2">
       <h4><ins>Connect with me</ins></h4>
           <a href="mailto:pollab17@gmail.com"><img src="https://img.shields.io/badge/Gmail-lightgrey?style=flat&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://www.linkedin.com/in/pollab-ahmed/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!--           <a href="https://www.linkedin.com/in/pollab-ahmed/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin"/></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
           <a href="https://www.fiverr.com/p_ahmed"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://www.upwork.com/freelancers/~014faae15050f47440"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork"/></a>
     </div>
