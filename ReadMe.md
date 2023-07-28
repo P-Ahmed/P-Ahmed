@@ -1,5 +1,3 @@
-<img src ="https://gpvc.arturio.dev/P-Ahmed">
-
 <table>
   <tr>
     <td>
