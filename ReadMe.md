@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me & My QA Philosophy  
 
-- 💼 **Software Quality Assurance Engineer** — blending code and curiosity.  
+- 💼 **Software Quality Assurance Engineer (ISTQB® Certified – CTFL)** — blending code and curiosity.
 - 🌍 Freelancing on [Upwork](https://www.upwork.com/freelancers/~014faae15050f47440) & [Fiverr](https://www.fiverr.com/p_ahmed_).  
 - 🧪 Skilled in **automation frameworks, API testing, performance testing, and DevOps-integrated QA**.  
 - 🎯 **Vision**:  
@@ -128,3 +128,6 @@ Recruitment Assignment — Selenium Java
 ---
 
 <p align="center">✨ Thanks for visiting my profile — let’s build and break software together! 🛠️🐞</p>
+<p align="center">
+  🎓 Proudly ISTQB® Certified — CTFL  
+</p>
